@@ -21,4 +21,6 @@ while True:
     if gpa >= 3.5:
         print(f"{first_name} {last_name} has made the Dean's List.")
     elif gpa >= 3.25:
-        print
+        print(f"{first_name} {last_name} has made the Honor Roll.")
+    else:
+        print(f"{first_name} {last_name} did not qualify for the Dean's List or Honor Roll.")
