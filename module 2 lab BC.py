@@ -1,5 +1,6 @@
 # Author: Broderick Clapper
-# File Name: deans_list_honor_roll.py
+# File Name: module 2 lab BC
+# assignment: deans list
 # Description: This app accepts student names and GPAs, then checks if they qualify for the Dean's List or the Honor Roll.
 
 while True:
